@@ -1,9 +1,9 @@
 # 🌐 CYBERSPACE TEXTS v2.0
 ### Decentralized Mesh Messenger with E2EE Security
 
-![Mesh_chat Logo](https://via.placeholder.com/1000x300?text=CYBERSPACE+TEXTS+v2.0)
+![Mesh_chat Logo](logo.png)
 
-**CYBERSPACE TEXTS** is a professional-grade peer-to-peer (P2P) communication platform designed for secure, decentralized messaging and file transfers. Built for **Computer Networks** (3rd Semester) and **Cybersecurity** enthusiasts, it operates without central servers, creating a self-healing mesh network via Wi-Fi and Bluetooth.
+**CYBERSPACE TEXTS** is a professional-grade peer-to-peer (P2P) communication platform designed for secure, decentralized messaging and file transfers. Built as my **Computer Networks** (3rd Semester) project, it operates without central servers, creating a self-healing mesh network via Wi-Fi and Bluetooth.
 
 ---
 
@@ -83,7 +83,7 @@ In the terminal input, you can use these commands:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Developed By
-**[USER]**  
+**[Huzaifah Naeem (Huzam)]**  
 *3rd Semester Cybersecurity Student | Computer Networks Project*
 
 ---
