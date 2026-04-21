@@ -1,0 +1,7 @@
+customtkinter==5.2.2
+cryptography==46.0.7
+plyer==2.1.0
+darkdetect==0.8.0
+packaging==26.1
+cffi==2.0.0
+pycparser==3.0

@@ -1,0 +1,21 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Identity & Personal Data (SENSITIVE)
+# DO NOT COMMIT THESE TO GITHUB
+flux_identity.json
+flux_nodes.db
+mesh_chat.log
+
+# Build & Compiled artifacts
+*.exe
+dist/
+build/
+
+# OS and IDE files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
